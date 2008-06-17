@@ -1,0 +1,16 @@
+{
+  "name": "drupal-ckeditor-libraries-group/list",
+  "description": "CKEditor 4 list plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "list"],
+  "homepage": "https://ckeditor.com/cke4/addon/list",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "issues": "https://github.com/ckeditor/ckeditor4/issues",
+    "source": "https://github.com/ckeditor/ckeditor4/tree/master/plugins/list"
+  }
+}
